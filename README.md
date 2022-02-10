@@ -2,7 +2,7 @@
 Zipfile module with encoding parameter
 
 # How to Use
-## As a EXTRA module (recommended)##
+## As a EXTRA module (recommended)
 After renaming the file (myzipfile.py) with the program, you can use the `import ... as ...` to rename to adopt the old code (`import myzipfile as zipfile`)
 ## Replace the original zipfile module (not recommended, program may not be portable)
 In the **Lib** folder under the python path
